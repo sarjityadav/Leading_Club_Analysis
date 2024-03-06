@@ -7,4 +7,5 @@ Pesented a PPT to illustrate the major parameter to consider while giving loans 
 
 
 Contributors:
-* [Sarjit,naman](https://github.com/sarjityadav/Leading_Club_Analysis/)
+* [Sarjit,naman]
+(https://github.com/sarjityadav/Leading_Club_Analysis/)
